@@ -10,5 +10,5 @@ def histo(arr):
                 printstring += " "
         print(printstring)
 
-histo([1,2,3,2,1])
-print("a")
+def rolldice(sides, numdice):
+    return 0
